@@ -21,6 +21,3 @@ You may need to adjust the code if the ad type you are trying to pull is missing
 # Bugs
 Sometimes a calendar window that the script is manipulating will hang and not give the correct stats and not close. If you have open calendar windows after the script is done, close the calendar(s) and delete the output files and try it again.<br />
 Occasionally erroneous numbers have been spotted. You may want to run the script multiple times and verify you get the same output. <br />
-
-# Possible Future Changes
-Change the script to run 3 times, then compare to only keep the results if they appear the same in at least two of the outputs, to remove erroneous outputs.<br />
