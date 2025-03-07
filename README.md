@@ -10,7 +10,7 @@ Paste the code into your snippet<br />
 
 # How To Run The Snippet
 In Chrome open your product/advertisement stats page in the Sage Supplier Center Website<br />
-For each type of product/advertisement that you want the stats for you will need to first click into their tab to view them. If you do not open them first, their code is not initialized by the website and they will get snipped<br />
+For each type of product/advertisement that you want the stats for you will need to first click into their tab to view them. If you do not open them first, their code is not initialized by the website<br />
 In Chrome open developer tools (Control + Shift + I || Command + Option + I)<br />
 Open your Snippet<br />
 Press the run button, or Ctrl+Enter<br />
